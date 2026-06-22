@@ -1,0 +1,50 @@
+[
+  {
+    "id": "example_01",
+    "text": "\"Did the timing change?\" she answered. \"Then why did Logan leave?\"",
+    "file": "examples/example_01.wav",
+    "seconds": 3.168
+  },
+  {
+    "id": "example_02",
+    "text": "Who puts a parking meter next to an ER label?",
+    "file": "examples/example_02.wav",
+    "seconds": 2.112
+  },
+  {
+    "id": "example_03",
+    "text": "Please say neighborhood, statistics, and anesthesiologist clearly, without rushing through the middle syllables.",
+    "file": "examples/example_03.wav",
+    "seconds": 5.536
+  },
+  {
+    "id": "example_04",
+    "text": "I said 91, not 306, which is a very different number.",
+    "file": "examples/example_04.wav",
+    "seconds": 3.5946666666666665
+  },
+  {
+    "id": "example_05",
+    "text": "The inference path looked natural, but the decoder still needed a smoother transition before Marcus approved the final test.",
+    "file": "examples/example_05.wav",
+    "seconds": 6.026666666666666
+  },
+  {
+    "id": "example_06",
+    "text": "The appointment moved to 1:25, the invoice was $674.96, and the archive was labeled 1998.",
+    "file": "examples/example_06.wav",
+    "seconds": 7.1786666666666665
+  },
+  {
+    "id": "example_07",
+    "text": "If Logan sounded uneasy, then it happened near Long Beach, and the pause has to carry that.",
+    "file": "examples/example_07.wav",
+    "seconds": 4.458666666666667
+  },
+  {
+    "id": "example_08",
+    "text": "The word aluminum should not steal attention from the softer ending after entrepreneur.",
+    "file": "examples/example_08.wav",
+    "seconds": 3.968
+  }
+]

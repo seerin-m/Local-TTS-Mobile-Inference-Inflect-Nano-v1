@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Inflect-Nano TTS"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/etText"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:hint="Type something..."
+        android:gravity="top"
+        android:padding="8dp"
+        android:inputType="textMultiLine"/>
+
+    <Button
+        android:id="@+id/btnSpeak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Speak"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="16dp"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:id="@+id/tvLatency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="8dp"
+        android:textColor="#2196F3"
+        android:textSize="14sp"/>
+
+</LinearLayout>

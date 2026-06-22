@@ -1,0 +1,8 @@
+torch
+torchaudio
+soundfile
+numpy
+g2p_en
+transformers
+gradio
+numba
