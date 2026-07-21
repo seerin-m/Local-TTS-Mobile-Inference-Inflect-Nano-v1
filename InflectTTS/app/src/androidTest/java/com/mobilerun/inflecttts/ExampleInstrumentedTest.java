@@ -1,4 +1,4 @@
-package com.f22labs.inflecttts;
+package com.mobilerun.inflecttts;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.f22labs.inflecttts", appContext.getPackageName());
+        assertEquals("com.mobilerun.inflecttts", appContext.getPackageName());
     }
 }

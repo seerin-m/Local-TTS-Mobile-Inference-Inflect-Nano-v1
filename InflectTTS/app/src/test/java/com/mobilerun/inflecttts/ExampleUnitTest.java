@@ -1,4 +1,4 @@
-package com.f22labs.inflecttts;
+package com.mobilerun.inflecttts;
 
 import org.junit.Test;
 

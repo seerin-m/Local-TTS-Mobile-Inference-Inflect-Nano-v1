@@ -5,7 +5,7 @@ This project demonstrates running inference for the **Inflect-Nano-v1** TTS mode
 2. **Android App (`InflectTTS`)**: Runs the ONNX-based acoustic models to generate and play speech on an Android device.
 
 ## Prerequisites
-* Python 3.8+
+* Python 3.13+
 * Android Studio
 * A physical Android device (for running the app)
 
@@ -17,11 +17,11 @@ This project demonstrates running inference for the **Inflect-Nano-v1** TTS mode
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/seerin-m/Local-TTS-Mobile-Inference-Inflect-Nano-v1.git
    ```
 2. Navigate into the repository directory:
    ```bash
-   cd <repository-folder-name>
+   cd Local-TTS-Mobile-Inference-Inflect-Nano-v1
    ```
 3. Navigate into the Python server folder:
    ```bash
@@ -67,7 +67,7 @@ To use the app on a physical Android device, the app needs to talk to the local 
 1. **Same Network:** Connect both your Android phone and your laptop to the **same Wi-Fi network**.
 2. **Find Laptop IP:** Open a terminal/CMD on your laptop and run `ipconfig` (Windows) or `ifconfig` (Mac/Linux) to find your laptop's local IPv4 Address (e.g., `192.168.1.15`).
 3. **Update the App:** In Android Studio, navigate to:
-   `app/src/main/java/com/f22labs/inflecttts/MainActivity.java`
+   `app/src/main/java/com/mobilerun/inflecttts/MainActivity.java`
 4. Locate the `LAPTOP_IP` variable near the top of the file:
    ```java
    private static final String LAPTOP_IP = "your laptop ip";

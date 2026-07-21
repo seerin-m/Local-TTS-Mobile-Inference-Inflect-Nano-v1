@@ -11,8 +11,12 @@ venv/
 # Android
 .gradle/
 .idea/
+*.iml
 local.properties
 **/build/
+.cxx/
+.externalNativeBuild/
+captures/
 
 # OS
 .DS_Store

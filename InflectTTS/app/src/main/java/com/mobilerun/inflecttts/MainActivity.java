@@ -1,4 +1,4 @@
-package com.f22labs.inflecttts;
+package com.mobilerun.inflecttts;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;

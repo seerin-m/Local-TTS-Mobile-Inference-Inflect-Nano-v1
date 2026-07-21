@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.f22labs.inflecttts"
+    namespace = "com.mobilerun.inflecttts"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.f22labs.inflecttts"
+        applicationId = "com.mobilerun.inflecttts"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
