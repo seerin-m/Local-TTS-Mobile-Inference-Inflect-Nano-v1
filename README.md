@@ -4,6 +4,14 @@ This project demonstrates running inference for the **Inflect-Nano-v1** TTS mode
 1. **Python Server (`inflect-phone`)**: Handles text phonemization locally on your machine.
 2. **Android App (`InflectTTS`)**: Runs the ONNX-based acoustic models to generate and play speech on an Android device.
 
+## Demo Videos
+
+### Demo 1
+<video src="Demo1.mp4" controls width="100%"></video>
+
+### Demo 2
+<video src="Demo2.mp4" controls width="100%"></video>
+
 ## Prerequisites
 * Python 3.13+
 * Android Studio
