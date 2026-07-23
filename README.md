@@ -6,11 +6,19 @@ This project demonstrates running inference for the **Inflect-Nano-v1** TTS mode
 
 ## Demo Videos
 
+## Demo
+
 ### Demo 1
-<video src="Demo1.mp4" controls width="100%"></video>
+
+<p align="center">
+  <img src="Demo1.gif" alt="Demo 1" width="350"/>
+</p>
 
 ### Demo 2
-<video src="Demo2.mp4" controls width="100%"></video>
+
+<p align="center">
+  <img src="Demo2.gif" alt="Demo 2" width="350"/>
+</p>
 
 ## Prerequisites
 * Python 3.13+
